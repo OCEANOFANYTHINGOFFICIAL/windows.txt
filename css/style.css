@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    background: url(../windows-10.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}
+.attribute{
+    text-align: center;
+    text-decoration: none;
+}
